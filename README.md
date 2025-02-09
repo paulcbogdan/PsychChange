@@ -1,7 +1,7 @@
 
 # How Have Psychological Results Changed?
 
-This repository contains the code for the manuscript: Bogdan, P.C. (2025). "One decade into the Replication Crisis, How have Psychological Results Changed?" _Advances in Methods and Practices in Psychological Science_. 
+This repository contains the code for the manuscript: Bogdan, P.C. (2025). "One decade into the Replication Crisis, How have Psychological Results Changed?" _Advances in Methods and Practices in Psychological Science_. The downloaded data and preprocessed datasets have been added to the associated [OSF/Box repository](https://osf.io/mxs47/). A preprint form of the paper has been uploaded here as a PDF.
 
 The code can be divided into two parts: (1) "Dataset construction" and (2) "Dataset use".
 
